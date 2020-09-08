@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "133335926504",
+    "firebase_url": "https://disco-math-285306.firebaseio.com",
+    "project_id": "disco-math-285306",
+    "storage_bucket": "disco-math-285306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133335926504:android:f5628f8d7bfc76cea9ab5d",
+        "android_client_info": {
+          "package_name": "Pheerapong.nu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133335926504-q3ajetcsn1v5c41c7sbimk4g3kusrpqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUWf2z_SAylLUJHhOzaJ5mQxPjsfL9xW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133335926504-q3ajetcsn1v5c41c7sbimk4g3kusrpqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
